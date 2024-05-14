@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 52,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "China's consumer prices rise for third month, signalling demand recovery - Reuters",
+      "description": null,
+      "url": "https://www.reuters.com/world/china/chinas-consumer-prices-rise-3rd-month-factory-deflation-persists-2024-05-11/",
+      "urlToImage": null,
+      "publishedAt": "2024-05-11T02:09:07Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Alexander Hall, Fox News' Brian Flood contributed to this report.",
+      "title": "Target announces Pride month merch will only be available in 'select stores' after last year's backlash - Fox Business",
+      "description": "Only select Target stores will carry LGBTQ+ themed products for Pride Month, following last year's backlash over products such as a women's swimsuit that tucks male genitals.",
+      "url": "https://www.foxbusiness.com/media/target-announces-pride-month-merch-available-select-stores-last-years-backlash",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/0/0/TGT.jpg?ve=1&tl=1",
+      "publishedAt": "2024-05-11T00:16:00Z",
+      "content": "After last year’s backlash against some of Target’s LGBTQIA+ products, the company announced their new Pride collection would only be available in \"select stores.\"\r\n\"We’re offering a collection of pr… [+2916 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Julie Coleman",
+      "title": "Cramer's week ahead: Earnings from Home Depot, Alibaba, Walmart - CNBC",
+      "description": "CNBC's Jim Cramer on Friday guided investors through next week's market action.",
+      "url": "https://www.cnbc.com/2024/05/10/cramers-week-ahead-earnings-from-home-depot-alibaba-walmart.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/101642717-20130429-0743-125.jpg?v=1686783111&w=1920&h=1080",
+      "publishedAt": "2024-05-10T23:22:42Z",
+      "content": "CNBC's Jim Cramer on Friday guided investors through next week's market action, telling them to pay attention to a number of earnings reports, including Home Depot, Alibaba and Walmart.\r\nHe also sugg… [+1773 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Breck Dumas",
+      "title": "McDonald's considering $5 meal deal to lure back inflation-hit customers - Fox Business",
+      "description": "McDonald's is reportedly mulling a $5 meal deal in an effort to lure back inflation-plagued customers as sales at fast food restaurants dip due to consumers eating more meals at home.",
+      "url": "https://www.foxbusiness.com/markets/mcdonalds-considering-5-meal-deal-lure-back-inflation-hit-consumers",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/06/0/0/166744cb-McDonalds-Restaurant-Chain-2.jpg?ve=1&tl=1",
+      "publishedAt": "2024-05-10T23:08:00Z",
+      "content": "McDonald's Corp. is asking its U.S. franchisees to consider offering a $5 meal deal in an effort to convince price-conscious customers to return as fast food restaurants see sales dip due to inflatio… [+1684 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WFLA"
+      },
+      "author": "Nathaniel Rodriguez",
+      "title": "Breeze Airways adds 2 new nonstop flights out of Tampa starting at $49 - WFLA",
+      "description": "Travelers out of Tampa International Airport will have two new low-cost flight options, according to an announcement from Breeze Airways.",
+      "url": "https://www.wfla.com/news/hillsborough-county/breeze-airways-adds-2-new-nonstop-flights-out-of-tampa-starting-at-49/",
+      "urlToImage": "https://www.wfla.com/wp-content/uploads/sites/71/2024/05/AP9345299729235488.jpg?w=1280",
+      "publishedAt": "2024-05-10T22:27:37Z",
+      "content": "Featured video: 2023 air travel statistics\r\nTAMPA, Fla. (WFLA) Travelers out of Tampa International Airport will have two new low-cost flight options, according to an announcement from Breeze Airways… [+702 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Verizon, AT&T, and T-Mobile's “unlimited” plans just got a $10M slap on the wrist - The Verge",
+      "description": "Verizon, AT&T, and T-Mobile must pay a $10.22 million fine as part of a settlement reached over the deceptive advertising of “unlimited” data plans.",
+      "url": "https://www.theverge.com/2024/5/10/24153892/verizon-tmobile-att-unlimited-plan-free-phone-offers-fine",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/CF8onNqaTPL45z_Ob_E4dfLkYqc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954583/acastro_STK066_verizon_0001.jpg",
+      "publishedAt": "2024-05-10T21:27:14Z",
+      "content": "Verizon, AT&amp;T, and T-Mobiles unlimited plans just got a $10M slap on the wrist\r\nVerizon, AT&amp;T, and T-Mobiles unlimited plans just got a $10M slap on the wrist\r\n / The carriers are accused of … [+2601 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KRQE News 13"
+      },
+      "author": "Audrey Claire Davis",
+      "title": "Two New Mexico restaurants rank as Yelp’s ‘Top 100 Barbecue Spots 2024’ - KRQE News 13",
+      "description": "NEW MEXICO (KRQE) – Yelp released its ranking of the “Top 100 Barbecue Spots” for 2024, and two New Mexico spots made the list. Mad Jack’s Mountaintop Barbecue in Cloudcroft ranked as No. 22, and Watson’s BBQ in Tucumcari ranked as No. 24. Mad Jack’s is locat…",
+      "url": "https://www.krqe.com/news-resources/ranking/two-new-mexico-restaurants-rank-as-yelps-top-100-barbecue-spots-2024/",
+      "urlToImage": "https://www.krqe.com/wp-content/uploads/sites/12/2024/05/AdobeStock_272715546.jpeg?w=1280",
+      "publishedAt": "2024-05-10T21:22:31Z",
+      "content": "NEW MEXICO (KRQE) Yelp released its ranking of the “Top 100 Barbecue Spots” for 2024, and two New Mexico spots made the list. Mad Jack’s Mountaintop Barbecue in Cloudcroft ranked as No. 22, and Watso… [+1815 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Britt Ross",
+      "title": "The 40+ best Amazon deals this weekend: Save up to 80% on vacuums, gardening tools, tech goodies and more - Yahoo Life",
+      "description": "We've got our eye on a viral Bissell carpet cleaner on rare sale for $99, plus an Apple iPad marked down by $80, to name a few.",
+      "url": "https://www.yahoo.com/lifestyle/the-40-best-amazon-deals-this-weekend-save-up-to-80-on-vacuums-gardening-tools-tech-goodies-and-more-204654041.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bPnWe22JQD0Ica5Zbslu2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/99362610-0e50-11ef-b3bf-5234b204c349",
+      "publishedAt": "2024-05-10T20:46:54Z",
+      "content": "Did you know that the ancient Roman philosophy of Stoicism has been making a comeback? It's true, and no wonder it's full of inspirational maxims, like this one from Seneca (4 B.C.-65 A.D.): \"Luck is… [+840 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Josh Lipton",
+      "title": "Musk says Tesla Supercharger is expanding despite layoffs - Yahoo Finance",
+      "description": "Tesla (TSLA) CEO Elon Musk backpedaled on his recent move to shrink the company's Supercharger team, posting on X that \"Tesla will spend well over $500M...",
+      "url": "https://finance.yahoo.com/video/musk-says-tesla-supercharger-expanding-204340290.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/i1GKle1TRbIgElLWrnVZWw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/c0760940-0f0c-11ef-bbff-c8853134c1d8",
+      "publishedAt": "2024-05-10T20:43:40Z",
+      "content": "Tesla (TSLA) CEO Elon Musk backpedaled on his recent move to shrink the company's Supercharger team, posting on X that \"Tesla will spend well over $500M expanding our Supercharger network to create t… [+2569 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KABC-TV"
+      },
+      "author": null,
+      "title": "Planet Fitness raising prices for its $10 membership plan for first time in 26 years - KABC-TV",
+      "description": "Planet Fitness is raising the price of its long-running $10-a-month membership plan for the first time in more than two decades.",
+      "url": "https://abc7.com/post/planet-fitness-raising-prices-increase-membership-gym/14795537/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14795556_051024-planet-fitness-1280.jpg?w=1600",
+      "publishedAt": "2024-05-10T20:39:45Z",
+      "content": "LOS ANGELES -- The Planet Fitness $10-a-month membership plan is a powerful marketing tool and a central part of its strategy. But the largest gym chain in the United States is hiking that monthly fe… [+3200 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Denitsa Tsekova, Emily Graffeo",
+      "title": "Wall Street Offloads Crash Insurance as Fear Fades Across Assets - Bloomberg",
+      "description": "After weeks of drama, peace is breaking out everywhere you look across Wall Street.",
+      "url": "https://www.bloomberg.com/news/articles/2024-05-10/wall-street-offloads-crash-insurance-as-fear-fades-across-assets",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7gl642JnfsU/v0/1200x800.jpg",
+      "publishedAt": "2024-05-10T20:30:53Z",
+      "content": "After weeks of drama, peace is breaking out everywhere you look across Wall Street.\r\nEven as traders have been forced to roll back their dovish monetary bets in epic fashion this year, demand to barr… [+59 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Stocks Close Mixed As Fed Official Says This On Rate Cuts; Taiwan Semi Soars On Sales Report - Investor's Business Daily",
+      "description": null,
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-tsm-stock-yelp-bitcoin/",
+      "urlToImage": null,
+      "publishedAt": "2024-05-10T20:27:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Pasco: Rat remains found in Japanese bread triggers recall and refunds - BBC.com",
+      "description": "Pasco has recalled 104,000 packs of sliced bread after rat remains were found in its products.",
+      "url": "https://www.bbc.com/news/articles/c51n0p14y1lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/406a/live/0216bf70-0e81-11ef-b31a-599ac3416c40.png",
+      "publishedAt": "2024-05-10T19:59:18Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Ford Cuts Battery Orders as EV Losses Top $100000 Per Car - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2024-05-10/ford-cuts-battery-orders-as-ev-losses-top-100-000-per-car",
+      "urlToImage": null,
+      "publishedAt": "2024-05-10T19:48:59Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Andrew Duehren, Andrew Restuccia",
+      "title": "Exclusive | Biden to Quadruple Tariffs on Chinese EVs - The Wall Street Journal",
+      "description": "Administration is preparing to announce higher levies on range of Chinese goods next week",
+      "url": "https://www.wsj.com/economy/trade/biden-to-quadruple-tariffs-on-chinese-evs-203127bf",
+      "urlToImage": "https://images.wsj.net/im-958700/social",
+      "publishedAt": "2024-05-10T19:32:00Z",
+      "content": "WASHINGTONThe Biden administration is preparing to raise tariffs on clean-energy goods from China in the coming days, with the levy on Chinese electric vehicles set to roughly quadruple, according to… [+479 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "San Francisco Chronicle"
+      },
+      "author": "San Francisco Chronicle",
+      "title": "Bay Area tech layoffs: Google and Rivian cut more jobs - San Francisco Chronicle",
+      "description": null,
+      "url": "https://www.sfchronicle.com/tech/article/tech-layoffs-google-rivian-19451076.php",
+      "urlToImage": null,
+      "publishedAt": "2024-05-10T19:29:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Sunak says it'll take time for people to feel better - BBC.com",
+      "description": "The prime minister says \"there is more work to do\" as the UK emerges from recession.",
+      "url": "https://www.bbc.com/news/articles/cmm3gzz1dj3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e784/live/72a27a30-0ecd-11ef-ae5b-6f3cb4b494be.png",
+      "publishedAt": "2024-05-10T19:18:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "POLITICO",
+      "title": "Wall Street regulator moves to ban election betting, escalating fight over new market - POLITICO",
+      "description": null,
+      "url": "https://www.politico.com/news/2024/05/10/cftc-election-betting-ban-00157304",
+      "urlToImage": null,
+      "publishedAt": "2024-05-10T19:15:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Zac Crellin",
+      "title": "Protesters attempt to storm Tesla's factory near Berlin - DW (English)",
+      "description": "Environmentalists have long criticized Tesla for clearing forest in order to build its electric car factory outside Berlin. A police spokesperson said the situation remained \"dynamic.\"",
+      "url": "https://www.dw.com/en/protesters-attempt-to-storm-teslas-factory-near-berlin/a-69046103",
+      "urlToImage": "https://static.dw.com/image/69047352_6.jpg",
+      "publishedAt": "2024-05-10T19:11:39Z",
+      "content": "Multiple people have been arrested after activists attempted to break into Tesla's electric car factory outside Berlin on Friday, according to police. \r\nRegional broadcaster RBB reported that several… [+3402 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Ann Saphir, Howard Schneider",
+      "title": "Fed officials mull whether rates high enough as inflation expectations jump - Reuters",
+      "description": "Debate over whether U.S. interest rates are high enough deepened among Federal Reserve officials this week, and may be stoked further after a key survey showed a jump in consumers' inflation expectations.",
+      "url": "https://www.reuters.com/markets/us/fed-officials-mull-if-rates-are-high-enough-inflation-expectations-jump-2024-05-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/BGLHUMQBHZMVHJYTQ3EOWJTP24.jpg?auth=afed3b7b1ea32bb041e7910915eaee261aeb7ff928c3ad3e7e68936dac5e6efc&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-05-10T19:00:00Z",
+      "content": null
+    }
+  ]
+}
